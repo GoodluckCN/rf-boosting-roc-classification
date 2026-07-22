@@ -1,50 +1,15 @@
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-env/
-venv/
-ENV/
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-share/python-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-MANIFEST
+# Random Forest, Boosting & ROC Analysis
 
-# Jupyter Notebook
-.ipynb_checkpoints
-*/.ipynb_checkpoints/*
+This repository contains the Python implementation and presentation materials for **RF Project** of the Applied Machine Learning course. The project explores ensemble learning techniques (Random Forest and Gradient Boosting) and evaluates classification thresholds using Receiver Operating Characteristic (ROC) curves.
 
-# IDEs and Editors
-.vscode/
-.idea/
-*.swp
-*.swo
+---
 
-# OS specific files
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
+## 📁 Repository Structure
 
-# Machine Learning Outputs & Logs
-catboost_training.json
-events.out.tfevents
-*.pdf
+```text
+├── KPI_data_for_logit_model.csv   # Dataset used for modeling
+├── 4-RF-Boosting.ipynb            # Main Jupyter Notebook containing code & analysis
+├── 4-RF-Boosting.pptx             # Summary presentation slides
+├── 3-CART.ipynb                   # Previous lab notebook (CART reference)
+├── 3-CART.pptx                    # Previous lab presentation slides
+└── README.md                      # Project documentation
