@@ -1,6 +1,6 @@
-# Homework 4: Random Forest, Boosting & ROC Analysis
+# Random Forest, Boosting & ROC Analysis
 
-This repository contains the complete code, dataset, and presentation materials for **Homework 4** of the Applied Machine Learning course. The project explores advanced ensemble learning methods—specifically **Random Forest** and **Gradient Boosting**—and evaluates their classification performance using **ROC curves** and optimal threshold tuning.
+This repository contains the complete code, dataset, and presentation materials for **RF Boosting Project** of the Applied Machine Learning course I completed at Vistula University. The project explores advanced ensemble learning methods—specifically **Random Forest** and **Gradient Boosting**—and evaluates their classification performance using **ROC curves** and optimal threshold tuning.
 
 ---
 # Dataset Overview
